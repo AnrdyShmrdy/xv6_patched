@@ -11,3 +11,11 @@ mkfs
 .gdbinit
 out
 fs
+bootother
+initcode
+kernel/bootblock
+kernel/bootblock.out
+kernel/bootother.out
+kernel/initcode.out
+kernel/kernel
+user/bin/
